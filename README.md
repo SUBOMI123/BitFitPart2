@@ -2,7 +2,7 @@
 
 Submitted by: **Oluwasubomi Bashorun**
 
-**BitFitPart2** is a health metrics app that allows users to track ... [TODO]
+**BitFitPart2** is a health metrics app that allows users to track of exercises completed and the averge time taken to complete the exercices.
 
 Time spent: **24** hours spent in total
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='bitfitpart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
